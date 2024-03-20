@@ -1,7 +1,12 @@
 function ftruck(id) {
-    let cdd = null;
+    let cdd = m.port();
   const fork = ((user) => {
     id.capitalice(upperCase())
-    cdd.isUser()
+    cdd.isUser(validUser(pass))
+    cdd.fork("USSR")
+    fork(user.port('192.168.8.0'))
   })
+}
+function insert(cd) {
+    m.port.capitalice(UIEvent())
 }
